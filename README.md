@@ -29,7 +29,7 @@ First, the training and test sets were merged using cbind and rbind.
 
 The training and test data came without heading, i.e. without variable names. These names are in the features.txt. The appropriate variable names (for step2) were selected using grep to identify their location in the ‘features’ table. (79 names were found.) Then the subsetting was done assuming the order of the names in features.txt is the same as the order of the columns in both X_train and X_test files. This was resulted in a dataset with 81 (=79+2) variables.
 
-Then, I started with step 4, and renamed the variables using sub/gsub.
+Then, I have chosen step 4, and renamed the variables using sub/gsub.
 This was followed by the merge of this dataset with the activity names; and the activity codes were deleted, because the description variable (SITTING, STANDING, etc.) was enough.
 
 For each of the 79 variables, a tapply loop was performed within a for loop to calculate the mean of each variable for each activity and each subject (ID). The tapply loop allows to calculate means for both variables. The result was produced as a data frame.
