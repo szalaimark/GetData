@@ -1,9 +1,9 @@
 Codebook
 =======
 
-Codebook for harusmean.txt
+Codebook for the tidy dataset of harusmean.txt
 
-The dataset contains average values of certain **features** (see below) for each of 30 volunteers performed different activities wearing a smartphone (Samsung Galaxy S II) on the waist.
+The dataset contains average values of certain **features** (see below) for each of 30 volunteers performed different activities wearing a smartphone (Samsung Galaxy S II) on the waist. A full description of the original data is available at the [site](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) where the raw data was obtained.
 
 **ID** is the identifier of the volunteer performing the activities.
 
