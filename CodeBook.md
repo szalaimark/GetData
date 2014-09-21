@@ -1,5 +1,5 @@
 Codebook
 =======
 
-Codebbok for harusmrean.txt
+Codebook for harusmean.txt
 
