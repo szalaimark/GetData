@@ -1,7 +1,7 @@
 Codebook
 =======
 
-Codebook for the tidy dataset of harusmean.txt (UPdated on 24-09-2014 to correct some typos. The variables are beginning with t or freq, as t can be considered as a common abbreviation of 'time')
+Codebook for the tidy dataset of harusmean.txt (Updated on 24-09-2014 to correct some typos. The variables are beginning with t or freq, as t can be considered as a common abbreviation of 'time')
 
 The dataset contains **average** values of certain **features** (see below) for each of 30 volunteers performed different activities wearing a smartphone (Samsung Galaxy S II) on the waist. A full description of the original data is available at the [site](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) where the raw data was obtained.
 
