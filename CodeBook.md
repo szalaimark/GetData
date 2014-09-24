@@ -9,7 +9,7 @@ The dataset contains **average** values of certain **features** (see below) for 
 
 The column names of **WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING** are the studied activities.
 
-The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals. These time domain signals were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (features beginning with **tBodyAcc** and **tGravityAcc**) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
+The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals. These time domain signals were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (features beginning with **tBodyAcc** like **tBodyAccMeanY** and **tGravityAcc**) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
 
 Subsequently, the body linear acceleration and angular velocity were derived in time to obtain Jerk signals (**tBodyAccJerk…** and **tBodyGyroJerk…**). Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (like features started with **tBodyAccMag**). 
 
